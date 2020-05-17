@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "451351310007",
+    "firebase_url": "https://trip-reminder-9bf7a.firebaseio.com",
+    "project_id": "trip-reminder-9bf7a",
+    "storage_bucket": "trip-reminder-9bf7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451351310007:android:5c4fc51f7f487fad426732",
+        "android_client_info": {
+          "package_name": "com.example.tripplanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451351310007-nfqgmq24796np9cft9q1afvkn708rcgl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tripplanner",
+            "certificate_hash": "b06460dd4f12b56d8a1d334c4521c0859f83c0ea"
+          }
+        },
+        {
+          "client_id": "451351310007-4ttsqdrphcp7urs8m8gha7mi668oa54r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_4I3_Ku6jwsNPsGDj8sdExD9RD95BEpk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451351310007-4ttsqdrphcp7urs8m8gha7mi668oa54r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape>
+            <gradient
+                android:centerX="0.5"
+                android:centerY="0.5"
+                android:endColor="#ffffff"
+                android:centerColor="#ffffff"
+                android:startColor="#ffffff"
+                android:gradientRadius="400dp"
+                android:width="230dp"
+                android:height="70dp"
+                android:type="radial"/>
+
+        </shape>
+    </item>
+    <item
+        android:gravity="center">
+        <bitmap
+
+
+
+            android:gravity="center"
+            android:src="@drawable/orange3"/>
+    </item>
+</layer-list>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+<group
+    android:id="@+id/grp1"
+    >
+    <item
+        android:id="@+id/upcomings"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="Upcomings"
+        >
+
+    </item>
+    <item
+        android:id="@+id/history"
+        android:icon="@drawable/ic_history_black_24dp"
+        android:title="History"
+        >
+
+    </item>
+</group>
+    <group
+        android:id="@+id/grp2"
+        >
+        <item
+            android:id="@+id/logout"
+            android:icon="@drawable/ic_exit_to_app_black_24dp"
+            android:title="Logout"
+            ></item>
+    </group>
+
+</menu>
